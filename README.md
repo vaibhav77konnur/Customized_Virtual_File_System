@@ -5,7 +5,7 @@ provided by File Systems
 
 Description of the project
 => 1) In this project we emulate all data stuctures which are used by operating systems 
-to manage File system oriented tasks.
+      to manage File system oriented tasks.
    2) As the name suggests its virtual because we maintain all records in primary storage or RAM
    3) In this project we created all data structures which is required for for file 
     subsystems as Inode, Inode Table, File table, UAREA, User File Descriptor table, 
